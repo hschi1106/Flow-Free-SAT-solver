@@ -1,0 +1,13 @@
+# of rows, # of cols
+# of colors
+start points
+end points
+
+r w
+color=3
+start1_x start1_y
+start2_x start2_y
+start3_x start3_y
+end1_x end1_y
+end2_x end2_y
+end3_x end3_y
